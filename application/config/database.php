@@ -75,10 +75,10 @@ $query_builder = TRUE;
 
 $db['default'] = array(
 	'dsn'	=> '',
-	'hostname' => 'localhost',
-	'username' => 'root',
-	'password' => '',
-	'database' => 'APP_DB_NAME',
+	'hostname' => '3.109.14.4/',
+	'username' => 'ostechnix',
+	'password' => 'Password123#@!',
+	'database' => 'SpacSMS',
 	'dbdriver' => 'mysqli',
 	'dbprefix' => '',
 	'pconnect' => FALSE,

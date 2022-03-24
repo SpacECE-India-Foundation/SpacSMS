@@ -26,7 +26,7 @@
 	</script>
 </head>
 	<body>
-        <div class="auth-main" style="background:rgba(24, 24, 100, 0.883)">
+        <div class="auth-main" style="background:rgba(255, 255, 255, 0.883)">
             <div class="container">
                 <div class="slideIn">
                     <!-- image and information -->
@@ -62,7 +62,7 @@
 
                     <!-- Login -->
                     <div class="col-lg-6 col-lg-offset-right-1 col-md-6 col-md-offset-right-1 col-sm-12 col-xs-12 no-padding">
-                        <div class="sign-area" style="background:rgba(14, 14, 56, 0.883)">
+                        <div class="sign-area" style="background:rgba(255, 165, 0, 0.883)">
                             <div class="sign-hader">
                                 <img src="<?php echo base_url('uploads/app_image/logo.png');?>" height="54" alt="">
                                 <h2><?php echo $global_config['institute_name'];?></h2>
